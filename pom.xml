@@ -3,14 +3,14 @@
 
 	<groupId>nico.test</groupId>
 	<artifactId>nico-tt</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>nico-tt</name>
 	<scm>
 		<connection>scm:git:https://github.com/ncrouzier/nico.git</connection>
 		<developerConnection>scm:git:https://github.com/ncrouzier/nico.git</developerConnection>
-	  <tag>nico-tt-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<distributionManagement>
 		<repository>
