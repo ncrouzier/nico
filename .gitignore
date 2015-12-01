@@ -1,5 +1,6 @@
 .settings/
 target/
+release.properties
 
 # Windows
 Thumbs.db 
